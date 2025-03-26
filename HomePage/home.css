@@ -30,7 +30,9 @@ a{
     text-decoration: none;
     color: white;
 }
-
+.home-link{
+    color: blue;
+}
 .GRID {
     max-width: 90vw;
     display: grid;
@@ -108,3 +110,4 @@ a{
     height: 20vh;
     border-radius: 10px;
 }
+
